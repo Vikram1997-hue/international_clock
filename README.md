@@ -1,3 +1,3 @@
 # International Clock
 
-A Flutter project that passes city name to the [World Time API](http://worldtimeapi.org/api/) and prints the current time in that city.
+A Flutter project that communicates with the [World Time API endpoint](http://worldtimeapi.org/api/) by sending it a city's name, and fetching and printing the current time in that city.
